@@ -111,14 +111,14 @@
 }
 .part6{
     background-color:  rgb(69, 205, 228);
-    width: 25%;
+    width: 33.3%;
     position: relative;
     left: 0.5%;
     padding-top: 5%;
 }
 .logo{
-    height:75%;
-    width:65%;
+    height:90%;
+    width:55%;
     margin-bottom: -20%;
     margin-top: -5%;
 }
@@ -132,13 +132,13 @@
 .company{
    position: relative;
    top: 30%;
-   left:50%;
-   font-size:13px;
+   left:45%;
+   font-size:15px;
    color: white;
 }
 .part8{
     margin-top: 4%;
-    padding-left: 3.5%;
+    padding-left: 8.5%;
     padding-right: 1.5%;
 }
 .second{
@@ -148,7 +148,7 @@
     letter-spacing: 1px;
 }
 .trophy{
-    margin-left: 70%;
+    margin-left: 50%;
     margin-top: -5%;
     height: 22%;
     width: 39%;
@@ -186,8 +186,8 @@
     font-size: 15;
     font-weight: 400;
     color: grey;
-    padding-left: 19%;
-    margin-top: -7.4%;
+    padding-left: 23%;
+    margin-top: -8%;
 }
 .dolor{
     font-size: 22;
@@ -201,6 +201,6 @@
 }
 .border{
     height: 13px;
-    width: 75%;
+    width: 66.8%;
     background-color: rgb(242, 81, 81);
 }
