@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.MAIN{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    min-height: 100px;
+    position: unset;
+    font-family: "montserrat";
+    box-shadow: 0 4px 100px 50px rgba(38,68,67,0.457),0 6px 20px 10px
+    rgba(0, 0, 0, 0.19);
+}
+.picture{
+    background-image: url(layout3bgimg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.part1{
+    background-color: rgba(0, 0, 0, 0.304);
+    height: 250px;
+    padding-left: 9%;
+}
+.line{
+    background-color:  rgba(40, 227, 248, 0.901);
+    width: 55px;
+    height: 2vh;
+    margin-top: 4%;
+}
+.U{
+    font-size: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: 800;
+}
+.trend{
+    font-size: 35;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: -1%;
+}
+.soft{
+    font-size: 29;
+    color: white;
+    letter-spacing: 1px;
+    margin-top: -2.5%;
+}
+.part2{
+    background-color: rgba(176, 175, 175, 0.214);
+    height: 500px;
+}
+.list{
+    color: white;
+    font-size: 35;
+    font-weight: 700;
+    list-style-type: square;
+    padding-top: 20%;
+    padding-right: 20%;
+}
+.part3{
+    background-color: rgba(255, 255, 0, 0.425);
+    height: 250px;
+    padding-left: 9%;
+}
+.learn{
+    font-size: 70;
+    color: white;
+    font-weight: 800;
+    letter-spacing: 2px;
+    padding-top: 3.5%;
+}
+.program{
+    font-size: 65;
+    color: white;
+    font-weight: 400;
+    letter-spacing: 2px;
+    margin-top: -5%;
+}
+.part4{
+    background-color: rgba(68, 67, 67, 0.342);
+    height: 250px;
+    text-align: right;
+    padding-top: 2%;
+    padding-right: 3%;
+}
+.add{
+    padding-left: 69%;
+    font-size: 20;
+    font-weight: 500;
+    color: white;
+    padding-top: 5%;
+}
+.text2{
+    font-size: 15;
+    font-weight: 200;
+    letter-spacing: 1px;
+    color: white;
+    margin-top: -5%;
+    padding-left: 30%;
+}
+.phone{
+    font-size: 20;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: white;
+    margin-top: -14%;
+}
+.number{
+    font-size: 15;
+    color: white;
+    padding-right: 29%;
+    margin-top: -4%;
+    padding-left: 32%;
+}
+.mail{
+    font-size: 20;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: white;
+    margin-top: -14%;
+}
+.example{
+    font-size: 15;
+    color: white;
+    padding-right: 20%;
+    margin-top: -5%;
+    padding-left: 30%;
+}
+.web{
+    font-size: 20;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: white;
+    margin-top: -14%;
+}
+.www{
+    font-size: 15;
+    color: white;
+    padding-right: 19%;
+    margin-top: -5%;
+    color: white;
+    padding-left: 38%;
+}
+.part5{
+    padding-left: 7.5%;
+}
+.first{
+    font-size: 60;
+    font-weight: 700;
+    color: rgb(242, 81, 81);
+    letter-spacing: 1px;
+    padding-top: 2%;
+}
+.start{
+    font-size: 32;
+    color: grey;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    margin-top: -2%;
+}
+.month{
+    font-size: 22;
+    font-weight: 400;
+    color: rgb(145, 143, 143);
+    letter-spacing: 0.5px;
+    margin-top: -1.8%;
+}
+.part6{
+    background-color:  rgb(69, 205, 228);
+    width: 25%;
+    position: relative;
+    left: 0.5%;
+    padding-top: 5%;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    margin-bottom: -20%;
+    margin-left: 5%;
+    margin-top: -5%;
+}
+.code{
+    font-size: 30;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding-left: 32%;
+}
+.company{
+    font-size: 15;
+    color: white;
+    font-weight: 400;
+    padding-left: 33%;
+    margin-top: -7%;
+}
+.part8{
+    margin-top: 4%;
+    padding-left: 3.5%;
+    padding-right: 1.5%;
+}
+.second{
+    font-size: 50;
+    font-weight: 700;
+    color: rgb(69, 205, 228);
+    letter-spacing: 1px;
+}
+.trophy{
+    margin-left: 70%;
+    margin-top: -5%;
+    height: 22%;
+    width: 39%;
+}
+.end,
+.earn,
+.reward{
+    font-size: 30;
+    color: grey;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.pre1,
+.pre2,
+.pre3{
+    color: rgb(145, 143, 143);
+    margin-bottom: 5%;
+}
+.our{
+    font-size: 20;
+    font-weight: 700;
+    color: rgb(242, 81, 81);
+    letter-spacing: 1px;
+    margin-top: 3%;
+}
+.text3{
+    font-size: 45;
+    font-weight: 800;
+    color: grey;
+    letter-spacing: 1px;
+    margin-top: -1%;
+}
+.co{
+    font-size: 15;
+    font-weight: 400;
+    color: grey;
+    padding-left: 19%;
+    margin-top: -7.4%;
+}
+.dolor{
+    font-size: 22;
+    font-weight: 600;
+    color: grey;
+    margin-bottom: 4%;
+}
+.part7{
+    background-color: rgb(235, 246, 246);
+    padding-left: 8%;
+}
+.border{
+    height: 13px;
+    width: 75%;
+    background-color: rgb(242, 81, 81);
+}
